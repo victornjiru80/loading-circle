@@ -1,8 +1,7 @@
 
-
-
 window.onload=()=>{
 const downloadButton = document.getElementById("downloadButton");
+
 const percentageText = document.getElementById("percentage");
 const circle = document.querySelector(".circle circle");
 
